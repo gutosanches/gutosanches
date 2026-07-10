@@ -1,7 +1,8 @@
-### Hi there 👋
+### Pedro (Guto) Sanches
+**Product engineer**
 
-I'm Pedro, but you can also call me Guto. I'm a Frontend Engineer based in Curitiba, Brazil.
+For over a decade I've built web and mobile products in React, React Native, and TypeScript, mostly for US startups and enterprises. Frontend at heart, full-stack when a product needs it, and as invested in the design and the user experience as in the code.
 
-My stack usually contains React with Typescript. I'm excited about anything related to the JavaScript/TypeScript ecosystem. After-hours, I make side projects to play with new frameworks and libraries. In my latest project, [TinyWins](https://www.tinywinsapp.com/), I had fun playing with [Tamagui](https://tamagui.dev/), using React Native with [Expo](https://expo.dev/).
+Most recently I was the founding engineer at [Scout](https://scout.kids), an AI-powered guide to kids' and family activities, shipped to iOS, Android, and the web from a single React Native codebase.
 
-Let's connect: [LinkedIn](https://www.linkedin.com/in/gutosanches)
+**LinkedIn** · [in/gutosanches](https://linkedin.com/in/gutosanches)
